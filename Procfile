@@ -1,0 +1,1 @@
+web: gunicorn mysiteFattoretti.wsgi --log-file - 
